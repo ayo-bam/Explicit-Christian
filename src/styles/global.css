@@ -1,0 +1,19 @@
+@media (max-width: 768px) {
+    .hero-content h1 {
+      font-size: 2.5rem;
+    }
+    
+    .hero-content p {
+      font-size: 1rem;
+    }
+    
+    .navbar {
+      flex-direction: column;
+    }
+    
+    .nav-links {
+      flex-direction: column;
+      gap: 10px;
+    }
+  }
+  

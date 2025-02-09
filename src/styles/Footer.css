@@ -1,0 +1,24 @@
+.image-footer {
+  width: 100%;
+  background-color: #2c3e50;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+  height: 100px;
+}
+
+.image-footer .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
+
+.image-footer .footer-email {
+  font-size: 35px;
+  margin-bottom: 20px;
+}
+
+.image-footer p {
+  font-size: 1rem;
+  margin: 5px 0;
+}
